@@ -1,0 +1,9 @@
+pickle
+streamlit==1.30.0
+spotipy
+pandas==2.1.4
+glob==
+os==
+nltk==3.8.1
+sklearn==1.2.2
+numpy==1.26.4
